@@ -38,7 +38,6 @@ git push origin feature/YourFeature
 5. Open a Pull Request to propose your changes.
 
 ## Contact Information
-If you have any questions or feedback, feel free to reach out:
-Email: bhavya.sahithi6@gmail.com
-GitHub: BhavyaSahithi1423
-Project Link: https://github.com/BhavyaSahithi1423/Memory-Game
+**Email:** bhavya.sahithi6@gmail.com
+**GitHub:** BhavyaSahithi1423
+**Project Link:** https://github.com/BhavyaSahithi1423/Memory-Game
