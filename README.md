@@ -20,24 +20,24 @@ To set up the Memory Game on your local machine, follow these simple steps:
    Launch the game by opening index.html in your preferred web browser
    
 ## How to Play
-Click on any card to flip it and reveal its symbol.
-Try to find a matching card by clicking another card.
-If the cards match, they will remain face up; if they don't, they will flip back down after a brief delay.
-Aim to match all pairs while minimizing your time.
+Click on any card to flip it and reveal its symbol.  
+Try to find a matching card by clicking another card.  
+If the cards match, they will remain face up; if they don't, they will flip back down after a brief delay.  
+Aim to match all pairs while minimizing your time.  
 Once all pairs are matched, the game will display your total time taken.
 
 ## Contributions
 Contributions are welcome! Here’s how you can help enhance the game:
 1. Fork the repository to create your copy.
 2. Create a new branch for your feature:
-git checkout -b feature/YourFeature
-3. Commit your changes with a descriptive message:
-git commit -m 'Add your feature description'
-4. Push to your branch:
-git push origin feature/YourFeature
-5. Open a Pull Request to propose your changes.
+   git checkout -b feature/YourFeature
+4. Commit your changes with a descriptive message:
+   git commit -m 'Add your feature description'
+5. Push to your branch:
+   git push origin feature/YourFeature
+6. Open a Pull Request to propose your changes.
 
 ## Contact Information
-**Email:** bhavya.sahithi6@gmail.com
-**GitHub:** BhavyaSahithi1423
+**Email:** bhavya.sahithi6@gmail.com  
+**GitHub:** BhavyaSahithi1423  
 **Project Link:** https://github.com/BhavyaSahithi1423/Memory-Game
