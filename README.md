@@ -16,15 +16,15 @@ To set up the Memory Game on your local machine, follow these simple steps:
    git clone https://github.com/BhavyaSahithi1423/Memory-Game.git
 2. **Navigate to the project directory:**
    cd memory-game
-3.**Open the Game:**
+3. **Open the Game:**
    Launch the game by opening index.html in your preferred web browser
    
 ## How to Play
 Click on any card to flip it and reveal its symbol.
 Try to find a matching card by clicking another card.
 If the cards match, they will remain face up; if they don't, they will flip back down after a brief delay.
-Aim to match all pairs while minimizing your time!
-Once all pairs are matched, the game will display your total time taken.\
+Aim to match all pairs while minimizing your time.
+Once all pairs are matched, the game will display your total time taken.
 
 ## Contributions
 Contributions are welcome! Here’s how you can help enhance the game:
@@ -37,7 +37,7 @@ git commit -m 'Add your feature description'
 git push origin feature/YourFeature
 5. Open a Pull Request to propose your changes.
 
-##Contact Information
+## Contact Information
 If you have any questions or feedback, feel free to reach out:
 Email: bhavya.sahithi6@gmail.com
 GitHub: BhavyaSahithi1423
